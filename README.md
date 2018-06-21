@@ -1,0 +1,2 @@
+# LogAnalizer
+Simple log analyzer
